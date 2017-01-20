@@ -1,2 +1,0 @@
-# meanapp
-learning app
